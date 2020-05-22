@@ -1,2 +1,2 @@
 # Time calculator
-a short tall i made in c++
+a tool i made in c++
